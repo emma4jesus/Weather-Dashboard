@@ -33,6 +33,6 @@ https://github.com/emma4jesus/Weather-Dashboard
 Contact Me:
 emmanuelajeanbaptiste1@gmail.com
 
-## Screenshot
+# Screenshot
 
 ![Screen shot](./assets/images/weather.dashboard.png)
